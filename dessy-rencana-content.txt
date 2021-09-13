@@ -1,0 +1,7 @@
+RENCANA KONTEN DESSY
+
+- Javascript
+  *ES6
+  *Framework Javascript
+- Intervies
+- Vlogs
