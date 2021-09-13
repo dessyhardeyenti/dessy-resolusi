@@ -3,5 +3,6 @@ RENCANA KONTEN DESSY
 - Javascript
   *ES6
   *Framework Javascript
+- Struktur Data Dasar
 - Intervies
 - Vlogs
