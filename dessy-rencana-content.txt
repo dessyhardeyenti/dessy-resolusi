@@ -3,6 +3,8 @@ RENCANA KONTEN DESSY
 - Javascript
   *ES6
   *Framework Javascript
+   ^ Vue
 - Struktur Data Dasar
 - Intervies
 - Vlogs
+- Phyton
